@@ -1,0 +1,42 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.footer{
+	margin: 30px;
+	height: 400px;
+	background-color: #282828;
+	color: #E4E4E4;
+
+}
+.jumbotron {
+	height: 600px;
+	background-size: cover;
+	background-image: url(images/fruit-and-veg.jpg);
+	color: #E4E4E4;
+
+}
+.navbar{
+	color: #E4E4E4;
+}
+.jumbotron h1{
+  font-family: 'Vast Shadow', cursive;
+  color: white;
+  margin-bottom: 1em;
+}
+
+#social-buttons​ button{
+  color: white;
+}
+
+.​btn​-​twitter​{
+
+}
+
+.​btn​-​facebook​{
+
+}
+
+.​btn​-​pinterest​{
+
+}
